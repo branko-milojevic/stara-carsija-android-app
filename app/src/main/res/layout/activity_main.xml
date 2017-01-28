@@ -67,5 +67,6 @@
         android:layout_marginTop="14dp"
         android:layout_below="@+id/editText3"
         android:layout_alignLeft="@+id/textView3"
-        android:layout_alignStart="@+id/textView3" />
+        android:layout_alignStart="@+id/textView3"
+        android:onClick="displayLoginMessage"/>
 </RelativeLayout>
